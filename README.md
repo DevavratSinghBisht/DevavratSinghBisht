@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DevavratSinghBisht" alt="DevavratSinghBisht" /></a> </p>
 
-- 🌱 I’m currently learning **Block Chain**
+- 🌱 I’m currently learning **Medical AI and Block Chain**
 
 - 💬 Ask me about **Deep Learning, AWS, Terraform**
 
